@@ -1,6 +1,9 @@
 # Hi there, I'm Benny 👋
 
-### Web Developer
+### I'm a Web Developer from Indonesia!!
+
+- 🌱 I’m currently learning TypeScript & GraphQL
+- 👯 I’m looking to collaborate
 
 ### Connect with me:
 
