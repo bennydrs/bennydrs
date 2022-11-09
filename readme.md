@@ -43,7 +43,7 @@
 <br />
 <br />
 
-### GitHub Stats
+<!-- ### GitHub Stats
 
-  <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=bennydrs&layout=compact&langs_count=10&hide_border=1&role=OWNER&title_color=27AE60&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Rick Staa's Language stats" />
-  <img height=200 align="left" alt="Benny GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bennydrs&show_icons=true&hide_border=false&title_color=27AE60&icon_color=ABD1C3&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=bennydrs&layout=compact&langs_count=10&hide_border=1&role=OWNER&title_color=27AE60&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Language stats" />
+  <img height=200 align="left" alt="Benny GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bennydrs&show_icons=true&hide_border=false&title_color=27AE60&icon_color=ABD1C3&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> -->
