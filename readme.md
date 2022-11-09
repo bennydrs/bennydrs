@@ -2,9 +2,6 @@
 
 ### I'm a Web Developer from Indonesia!!
 
-- 🌱 I’m currently learning TypeScript & GraphQL
-- 👯 I’m looking to collaborate
-
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://bennyds.netlify.app/#gh-light-mode-only)
